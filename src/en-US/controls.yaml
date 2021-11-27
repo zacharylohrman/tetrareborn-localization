@@ -1,0 +1,35 @@
+en:
+  shiftLeft:
+    name: "Shift Left"
+    description: "Press to move a polyomino to the left once, or hold to engage the Autoshift."
+  shiftRight:
+    name: "Shift Right"
+    description: "Press to move a polyomino to the right once, or hold to engage the Autoshift."
+  hardDrop:
+    name: "Hard Drop"
+    description: "Drop a polyomino instantly the floor and lock it in place."
+  softDrop:
+    name: "Soft Drop"
+    description: "Speed up the descent of a polyomino."
+  rotateLeft:
+    name: "Rotate Left"
+    description: "Rotate a polyomino 90° counter-clockwise."
+  rotateRight:
+    name: "Rotate Right"
+    description: "Rotate a polyomino 90° clockwise."
+  rotate180:
+    name: "Rotate 180°"
+    description: "Rotate a polyomino 180°."
+  hold:
+    name: "Hold"
+    description: "Send a polyomino to the HOLD Queue."
+  retry:
+    name: "Retry"
+    description: "Instantly have another attempt in the current mode."
+  pause:
+    name: "Pause"
+    description: "Pause the game."
+  sonicDrop:
+    name: "Sonic Drop"
+  softDropWithLock:
+    name: "Soft Drop with Lock"

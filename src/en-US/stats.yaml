@@ -1,0 +1,4 @@
+en:
+  level: "Level" #The current game's level
+  lines: "Lines" #The amount of lines cleared so far
+  placed: "Placed" #The amount of polyominoes placed so far

@@ -1,0 +1,30 @@
+en:
+  createdBy: "Created by {{author}}"
+  style:
+    categoryName: "Game Styles"
+    guideline:
+      name: "Guideline"
+      description: "The standard variant found in most modern games."
+    tetraX:
+      name: "Tetra-X"
+      description: "The custom variant designed by Dr Ocelot."
+    retro:
+      name: "Retro"
+      description: "The classic variant loved by oldschool players."
+    arcade:
+      name: "Arcade"
+      description: "The difficult variant loved by hardcore players."
+  settings:
+    categoryName: "Settings"
+    controls:
+      name: "Controls"
+      description: "Customize how the game controls."
+    tuning:
+      name: "Tuning"
+      description: "Customize how the game handles."
+    audio:
+      name: "Audio"
+      description: "Customize how the game sounds."
+    video:
+      name: "Video"
+      description: "Customize how the game looks."

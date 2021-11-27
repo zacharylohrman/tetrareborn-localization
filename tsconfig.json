@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "newLine": "lf",
+    "moduleResolution": "node",
+    "outDir": "dist"
+  }
+}
