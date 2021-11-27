@@ -1,7 +1,7 @@
 {
-  "name": "yaml-to-json",
+  "name": "tetrareborn-localization",
   "version": "1.0.0",
-  "description": "Convert YAML localization files to JSON i18next",
+  "description": "localization of tetra reborn",
   "main": "./src-core/index.js",
   "scripts": {
     "build": "ts-node ./src/index.ts"
